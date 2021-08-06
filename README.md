@@ -2,7 +2,7 @@
 
 I'm student with passion to programming. My dream is to become professional proggramer.
 
-- :books: Currently I'm in second year of technical high school on IT department in Poland, Siedlce.
+- :books: Currently I'm in third year of technical high school on IT department in Poland, Siedlce.
 - :clipboard: Some of my project, are here on my github.
 - :mag: The fastest way to contact me is through facebook.
 
