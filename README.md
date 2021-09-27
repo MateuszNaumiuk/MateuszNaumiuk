@@ -1,6 +1,6 @@
 ### Hi, I'm Mateusz Naumiuk, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I'm student with passion to programming. My dream is to become professional proggramer.
+I'm student with passion to programming. My dream is to become professional programmer.
 
 - :books: Currently I'm in third year of technical high school on IT department in Poland, Siedlce.
 - :clipboard: Some of my project, are here on my github.
