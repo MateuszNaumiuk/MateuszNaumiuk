@@ -1,5 +1,5 @@
-# Hi 👋, I'm Mateusz
-Crafting Code with Passion and Precision
+<h1 align="center">Hi 👋, I'm Mateusz</h1>
+<h3>Crafting Code with Passion and Precision</h3>
 
 ## 🌱 What I'm Learning
 
